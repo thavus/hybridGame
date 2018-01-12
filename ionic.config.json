@@ -1,0 +1,8 @@
+{
+  "name": "hybridGame",
+  "app_id": "03dc9e24",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
